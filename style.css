@@ -33,9 +33,10 @@ body{
  /* justify-content: center; */
 
 }
-.content h2{
+.content h1{
     padding-bottom: 20px;
     color: hsl(218, 44%, 22%);
+    font-size: 22px;
     
 }
 .content p{
